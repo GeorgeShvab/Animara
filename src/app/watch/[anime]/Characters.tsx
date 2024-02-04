@@ -1,7 +1,5 @@
 'use client'
 
-import 'slick-carousel/slick/slick.css'
-import 'slick-carousel/slick/slick-theme.css'
 import Character from '@/components/Character'
 import * as types from '@prisma/client'
 import { FC, useState } from 'react'
