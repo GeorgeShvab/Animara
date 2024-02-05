@@ -2,7 +2,7 @@
 
 Animara is an anime streaming website.
 
-The main functionality of Animara is to search and watch anime. Users can filter anime by genre, format, status, and other parameters.
+Main functionality of Animara is to search and watch anime. Users can filter anime by genre, format, status, and other parameters.
 Also, users can see similar and related anime to some specific title (Related anime are usually sequels or prequels, similar anime are determined by the same genres in two anime). There are also pages for anime movies and series (users can filter and sort them too).
 
 The most difficult part of the website is definitely the player. I created my own comfortable player UI.
